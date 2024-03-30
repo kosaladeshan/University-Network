@@ -21,14 +21,14 @@ To run this project on your computer, follow these steps:
    Clone this repository to your local machine using Git or download the project files directly from the repository.
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/kosaladeshan/University-Network>
 
    ```
 3. **Open the Project:**
-Navigate to the project directory and open the project file named "This is my project - README.pkt" using Cisco Packet Tracer.
+Navigate to the project directory and open the project file named "02 Activity.pkt" using Cisco Packet Tracer.
 
 4. **Explore the Simulation:**
-Once the project is opened in Cisco Packet Tracer, you can explore the network simulation. Interact with the devices, examine their configurations, and observe the network operations.
+Once the project is opened in Cisco Packet Tracer, you can explore the network simulation. Interact with the devices and observe the network operations.
 
 5. **Refer to README for Details:**
 The README file within the project contains additional information and instructions specific to the network simulation. Make sure to review it for a better understanding of the project setup and configuration.
