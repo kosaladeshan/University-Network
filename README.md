@@ -1,2 +1,2 @@
 # University-Network
-this is a university network simulation project. 
+This is a university network simulation project. 
