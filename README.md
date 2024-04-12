@@ -34,3 +34,8 @@ Once the project is opened in Cisco Packet Tracer, you can explore the network s
 The README file within the project contains additional information and instructions specific to the network simulation. Make sure to review it for a better understanding of the project setup and configuration.
 
 By following these steps, you can effectively run the University Network Simulation Project on your computer using Cisco Packet Tracer software.
+
+
+
+
+![Screenshot 2024-04-12 201711](https://github.com/kosaladeshan/University-Network/assets/127652560/e1066a12-1775-4dcf-87c5-607115bbf907)
